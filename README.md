@@ -1,4 +1,7 @@
 # cool-shit
+
 noget fedt
 
-her er noget nyt
+dette er altid super cool at githubbe
+
+vrøvl det er altid sjovt at hubbe
